@@ -9,7 +9,7 @@ Centralized shared configuration and data repository for PTB Hub and SlimeSpace.
 2. **Push via Termux:** Open Termux and run the following command sequence to stage, commit, and push updates to all three mirrored repositories at once:
 
 ```bash
-# Navigate to shared data folder
+# Navigate to shared data folder k
 cd /storage/emulated/0/Download/MOBEXTRA.github.shared-data
 
 # Stage all updated files
